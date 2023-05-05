@@ -1,0 +1,45 @@
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.exe
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.deps.json
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.dll
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.dll
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\refint\Categoria_Sub.dll
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\ref\Categoria_Sub.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.exe
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.deps.json
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.runtimeconfig.json
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.AssemblyReference.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfoInputs.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfo.cs
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\refint\Categoria_Sub.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.genruntimeconfig.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\ref\Categoria_Sub.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.exe
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.deps.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.runtimeconfig.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\bin\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.AssemblyReference.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfoInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.AssemblyInfo.cs
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.csproj.CoreCompileInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\refint\Categoria_Sub.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\Categoria_Sub.genruntimeconfig.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Categoria_Sub\Categoria_Sub\obj\Debug\net6.0\ref\Categoria_Sub.dll

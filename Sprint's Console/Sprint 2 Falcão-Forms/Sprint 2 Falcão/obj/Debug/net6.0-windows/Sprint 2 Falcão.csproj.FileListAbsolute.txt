@@ -1,0 +1,57 @@
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.exe
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.deps.json
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_CadNovo.resources
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Cadastro.resources
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.GenerateResource.cache
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\refint\Sprint 2 Falcão.dll
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\ref\Sprint 2 Falcão.dll
+C:\Users\ClearTech\source\repos\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Editar.resources
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.exe
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.deps.json
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.runtimeconfig.json
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.AssemblyReference.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_CadNovo.resources
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Editar.resources
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Cadastro.resources
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.GenerateResource.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfoInputs.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfo.cs
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\refint\Sprint 2 Falcão.dll
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.genruntimeconfig.cache
+C:\Users\ClearTech\T2-EllenMarcelle\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\ref\Sprint 2 Falcão.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.exe
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.deps.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.runtimeconfig.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\bin\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.AssemblyReference.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_CadNovo.resources
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Editar.resources
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint_2_Falcão.Frm_Cadastro.resources
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.GenerateResource.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfoInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.AssemblyInfo.cs
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.csproj.CoreCompileInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\refint\Sprint 2 Falcão.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\Sprint 2 Falcão.genruntimeconfig.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint 2 Falcão\Sprint 2 Falcão\obj\Debug\net6.0-windows\ref\Sprint 2 Falcão.dll

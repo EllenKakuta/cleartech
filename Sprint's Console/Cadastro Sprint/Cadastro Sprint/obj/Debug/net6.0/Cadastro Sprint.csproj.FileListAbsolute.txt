@@ -1,0 +1,30 @@
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.exe
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.deps.json
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.dll
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.pdb
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.dll
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\refint\Cadastro Sprint.dll
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.pdb
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\ref\Cadastro Sprint.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.exe
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.deps.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.runtimeconfig.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\bin\Debug\net6.0\Cadastro Sprint.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.csproj.AssemblyReference.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.AssemblyInfoInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.AssemblyInfo.cs
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.csproj.CoreCompileInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\refint\Cadastro Sprint.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\Cadastro Sprint.genruntimeconfig.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Cadastro Sprint\Cadastro Sprint\obj\Debug\net6.0\ref\Cadastro Sprint.dll

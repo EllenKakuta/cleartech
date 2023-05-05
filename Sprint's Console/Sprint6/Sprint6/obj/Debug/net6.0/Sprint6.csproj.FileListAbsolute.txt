@@ -1,0 +1,30 @@
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.exe
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.deps.json
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.dll
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.pdb
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.dll
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\refint\Sprint6.dll
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.pdb
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Sprint6\Sprint6\obj\Debug\net6.0\ref\Sprint6.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.exe
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.deps.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.runtimeconfig.json
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\bin\Debug\net6.0\Sprint6.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.csproj.AssemblyReference.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.AssemblyInfoInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.AssemblyInfo.cs
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.csproj.CoreCompileInputs.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\refint\Sprint6.dll
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.pdb
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\Sprint6.genruntimeconfig.cache
+C:\Users\Cleartech\T2-EllenMarcelle\Sprint's Console\Sprint6\Sprint6\obj\Debug\net6.0\ref\Sprint6.dll
